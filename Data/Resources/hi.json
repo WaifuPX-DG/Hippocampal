@@ -1,6 +1,36 @@
 [
   {
     "author": "WPX",
+    "collections": "Gloom",
+    "copyright": "Edit Collection",
+    "downloadable": true,
+    "name": "Cat Gloom",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/07.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/07_th.jpeg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Photography",
+    "copyright": "Photo Collection",
+    "downloadable": true,
+    "name": "Fog",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/06.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/06_th.jpeg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Photography",
+    "copyright": "Photo Collection",
+    "downloadable": true,
+    "name": "Sakura",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/05.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/05_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "Anime",
     "copyright": "Girl 2D Collection",
     "downloadable": true,
