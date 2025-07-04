@@ -1,6 +1,26 @@
 [
   {
     "author": "WPX",
+    "collections": "Anime",
+    "copyright": "Girl 2D Collection",
+    "downloadable": true,
+    "name": "Girl2D",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/04.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/04_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Photography",
+    "copyright": "Photo Collection",
+    "downloadable": true,
+    "name": "Girl2D",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/03.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/03_th.jpeg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
     "collections": "Scenic",
     "copyright": "Drawing Collection",
     "downloadable": true,
