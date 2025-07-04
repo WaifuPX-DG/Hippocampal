@@ -1,8 +1,28 @@
 [
   {
     "author": "WPX",
-    "collections": "Photography",
+    "collections": "Scenic",
     "copyright": "Photo Collection",
+    "downloadable": true,
+    "name": "Clouds",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/12.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/12_th.jpeg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Anime",
+    "copyright": "Girl Collection",
+    "downloadable": true,
+    "name": "Kawasaki Raimu",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/11.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/11_th.jpeg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Cars",
+    "copyright": "Cars Collection",
     "downloadable": true,
     "name": "RX-7",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/10.png",
