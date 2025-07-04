@@ -1,0 +1,22 @@
+[
+  {
+    "author": "WPX",
+    "collections": "Scenic",
+    "copyright": "Drawing Collection",
+    "downloadable": true,
+    "name": "Rain Station",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/01.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/01_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+  {
+    "author": "WPX",
+    "collections": "Cars",
+    "copyright": "WPX Collection",
+    "downloadable": true,
+    "name": "BMW x Porsche",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/02.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/02_th.png",
+    "dimensions": "Personal use only. No commercial purposes."
+  }
+]
