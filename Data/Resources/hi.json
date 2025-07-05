@@ -1,6 +1,24 @@
 [
   {
     "author": "WPX",
+    "collections": "Scenic",
+    "downloadable": true,
+    "name": "Tower",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/20.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/20_th.jpeg",
+    "dimensions": "Scenic"
+  },
+  {
+    "author": "WPX",
+    "collections": "Gloom",
+    "downloadable": true,
+    "name": "Fox",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/19.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/19_th.jpeg",
+    "dimensions": "Gloom"
+  },
+  {
+    "author": "WPX",
     "collections": "Nature",
     "downloadable": true,
     "name": "Flower",
