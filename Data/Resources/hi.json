@@ -1,6 +1,24 @@
 [
   {
     "author": "WPX",
+    "collections": "Scenic",
+    "downloadable": true,
+    "name": "Builds",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/26.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/26_th.jpeg",
+    "dimensions": "Scenic"
+  },
+  {
+    "author": "WPX",
+    "collections": "Gloom",
+    "downloadable": true,
+    "name": "Cat",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/25.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/25_th.jpeg",
+    "dimensions": "Gloom"
+  },
+  {
+    "author": "WPX",
     "collections": "Nature",
     "downloadable": true,
     "name": "Flower",
