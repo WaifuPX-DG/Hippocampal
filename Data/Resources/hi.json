@@ -1,6 +1,24 @@
 [
   {
     "author": "WPX",
+    "collections": "Nature",
+    "downloadable": true,
+    "name": "Flower",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/24.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/24_th.jpeg",
+    "dimensions": "Nature"
+  },
+  {
+    "author": "WPX",
+    "collections": "Anime",
+    "downloadable": true,
+    "name": "Station",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/23.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/23_th.jpeg",
+    "dimensions": "Anime"
+  },
+  {
+    "author": "WPX",
     "collections": "Photography",
     "downloadable": true,
     "name": "Lights",
