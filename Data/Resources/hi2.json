@@ -1,6 +1,15 @@
 [
   {
     "author": "WPX",
+    "collections": "Nature",
+    "downloadable": true,
+    "name": "Leaves",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/32.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/32_th.jpeg",
+    "dimensions": "Nature"
+  },
+  {
+    "author": "WPX",
     "collections": "Aerial",
     "downloadable": true,
     "name": "Bridge",
