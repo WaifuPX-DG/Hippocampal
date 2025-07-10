@@ -1,6 +1,15 @@
 [
   {
     "author": "WPX",
+    "collections": "Scenic",
+    "downloadable": true,
+    "name": "Cherry",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/33.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/33_th.jpeg",
+    "dimensions": "Scenic"
+  },
+  {
+    "author": "WPX",
     "collections": "Nature",
     "downloadable": true,
     "name": "Leaves",
