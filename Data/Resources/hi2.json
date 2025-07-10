@@ -1,6 +1,15 @@
 [
   {
     "author": "WPX",
+    "collections": "Aerial",
+    "downloadable": true,
+    "name": "Bridge",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/31.jpeg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Hippocampal/refs/heads/main/Data/Resources/wall/31_th.jpeg",
+    "dimensions": "Bridge"
+  },
+  {
+    "author": "WPX",
     "collections": "Cars",
     "downloadable": true,
     "name": "Porsche",
